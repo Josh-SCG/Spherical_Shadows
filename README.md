@@ -9,11 +9,11 @@ Puzzle Ball: Spherical Shadows is a collective effort amongst three Honours prog
 Each member was responsible for various aspects of development which are summarised, but not limited to, as follows:
 
 [GCWehmeyer](https://github.com/GCWehmeyer):
-  - [x] Player Animation aquisition and implementation
-  - [x] Health Bar implementaion
-  - [x] Player Model aquisition
-  - [x] Enemy Models aquisition
-  - [x] Environment assets aquisition
+  - [x] Player Animation acquisition and implementation
+  - [x] Health Bar implementation
+  - [x] Player Model acquisition
+  - [x] Enemy Models acquisition
+  - [x] Environment assets acquisition
   - [x] Third Level designer
 
 [Josh-SCG](https://github.com/Josh-SCG):
